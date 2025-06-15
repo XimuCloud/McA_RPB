@@ -2,7 +2,8 @@
 Priority Controller Screening Codes to Support the Recycling Process of Retired Power Batteries
 
 
-![Uploading 屏幕截图 2025-06-15 151846.png…]()
+![屏幕截图 2025-06-15 151846](https://github.com/user-attachments/assets/95ab5db9-d6ab-47c0-957c-ddb921b2f3e4)
+
 
 
 
