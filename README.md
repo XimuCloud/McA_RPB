@@ -13,7 +13,7 @@
 - ✅ Hierarchical clustering (Ward) and PCA visualization
 - ✅ Clustering evaluation using Silhouette, Davies-Bouldin, Calinski-Harabasz
 - ✅ Six visualization outputs (metrics curve, PCA scatter, scores, heatmap, distribution, dendrogram)
-- ✅🧪 SHAP feature importance analysis (multiple model types supported)
+- ✅ SHAP feature importance analysis (multiple model types supported)
 
 ---
 
