@@ -1,6 +1,6 @@
 # 🧭 McA_RPB — Clustering & Visualization Toolkit
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
